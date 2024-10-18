@@ -1,5 +1,10 @@
 ## Olá, aqui é o Daniel 👋
 
+- 🔭 Hoje minha área de interesse é desenvolvimento FrontEnd e soluções IoT
+- 🌱 Estou aprendendo novos frameworks para front e me aprofundar em Python
+- 💬 Vamos trocar idéias
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-lucas-665bb114b)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/dani_luks05)
 
@@ -15,11 +20,5 @@
     <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
  <br/></div>
-
-
-
-- 🔭 Hoje minha área de interesse é desenvolvimento FrontEnd e soluções IoT
-- 🌱 Estou aprendendo novos frameworks para front e me aprofundar em Python
-- 💬 Vamos trocar idéias
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielLucas2305)](https://github.com/DanielLucas2305/github-readme-stats) -->
